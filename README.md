@@ -1,2 +1,1 @@
-# webproject2-repo
-Fifteen Puzzle
+# INFO2180 - Project 2 - The Fifteen Puzzle
